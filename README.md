@@ -1,7 +1,7 @@
 # cryptocommerce-
 
 
-           Cryptocommerce 
+           
 
 Blockchain technology enables the creation of decentralized currencies, self-executing digital contracts (smart contracts) and intelligent assets that can be controlled over the Internet (smart property). The blockchain also enables the development of new governance systems with more democratic or participatory decision-making, and decentralized (autonomous) organizations that can operate over a network of computers without any human intervention. These applications have lead many to compare the blockchain to the Internet, with accompanying predictions that this technology will shift the balance of power away from centralized authorities in the field of communications, business, and even politics or law. 
 
